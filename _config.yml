@@ -1,4 +1,4 @@
 name : Yash Naik
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
-theme: cayman
+theme: jekyll-theme-slate
